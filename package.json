@@ -1,0 +1,29 @@
+{
+	"name": "firebase-basics",
+	"version": "1.0.0",
+	"description": "Started with this introduction https://fireship.io/courses/react-next-firebase/intro-firebase-basics/ however quickly realised it was outdated so worked through the 15 video course on YT here https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/moggiex/firebase-basics.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/moggiex/firebase-basics/issues"
+	},
+	"homepage": "https://github.com/moggiex/firebase-basics#readme",
+	"devDependencies": {
+		"webpack": "^5.69.1",
+		"webpack-cli": "^4.9.2",
+		"source-map-loader": "^1.0.0"
+	},
+	"dependencies": {
+		"firebase": "^9.6.7"
+	}
+}
